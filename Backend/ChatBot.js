@@ -6,7 +6,7 @@ const axios = require('axios');
 // ChatGPT API endpoint
 const API_ENDPOINT = 'https://api.openai.com/v1/engines/davinci-codex/completions';
 
-const API_KEY = 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;
+const API_KEY = "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";
 
 // Function that takes a prompt as input and interacts with ChatGPT API 
 async function chatWithGPT(prompt) {
