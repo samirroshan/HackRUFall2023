@@ -60,7 +60,7 @@ export default function Register(){
             return(
                 <>
                         <div className="register1">
-                            <h1>Welcome to BlahBlahBlah. Here you can get help from volunteers or be a volunteer.</h1>
+                            <h1>Welcome to VolunteerVerse, where compassion meets action. Register today and become a volunteer in your local community!</h1>
                             <br></br>
                             To get started, please register. 
                         </div>
