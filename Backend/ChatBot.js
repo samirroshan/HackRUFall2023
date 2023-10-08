@@ -2,7 +2,7 @@
 // HTTP requests (i.e. tool that helps you talk to other computers, which
 // is OpenAI API in this case) 
 const axios = require('axios');
-
+          
 // ChatGPT API endpoint
 const API_ENDPOINT = 'https://api.openai.com/v1/engines/davinci-codex/completions';
 
