@@ -31,6 +31,8 @@ export default function Navbar(){
                 <>
                     <a href="/dashboard">Your Dashboard</a>
                     <br></br>
+                    <a href= <Chat /> >ChatBot</a>
+                    <br></br>
                     <a href="/login" onClick={handleLogout}>Logout</a>
                     
                 </>
